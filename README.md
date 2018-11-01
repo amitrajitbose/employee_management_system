@@ -28,12 +28,13 @@ Servlets
 HTML
 CSS
 Bootstrap
+PHP
 MySQL
 Apache Tomcat
 Eclipse
 ```
 
-The above README will be updated soon.
+The above README file will be updated soon.
 
 ### Contributions
 *Closed Project* - Not open to new contributions.
