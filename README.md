@@ -27,6 +27,7 @@ JDBC
 Servlets
 HTML
 CSS
+JavaScript
 Bootstrap
 PHP
 MySQL
