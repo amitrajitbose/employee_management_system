@@ -37,7 +37,8 @@ Eclipse
 
 The above README file will be updated soon.
 ### Demo Walkthrough
-![walkthrough](project.mp4)
+![walkthrough](walkthrough.gif)
+*Credits: ezgif.com*
 
 ### Contributions
 *Closed Project* - Not open to new contributions.
