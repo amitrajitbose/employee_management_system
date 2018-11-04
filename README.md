@@ -36,6 +36,8 @@ Eclipse
 ```
 
 The above README file will be updated soon.
+### Demo Walkthrough
+![walkthrough](project.mp4)
 
 ### Contributions
 *Closed Project* - Not open to new contributions.
